@@ -1,0 +1,61 @@
+Projektplan für das Personenregister
+WP1 – Projektplanung und Anforderungsanalyse
+
+Tasks:
+    • Anforderungen an das Personenregister analysieren
+    • Ideen für Funktionen und Umsetzung sammeln
+    • Benötigte Bürgerdaten und Attribute definieren
+    • Schnittstellen zu anderen Registern identifizieren
+    • Technische Umsetzung mit anderen Teams abstimmen
+    • UML-Diagramm erstellen
+    • Projektplan erstellen
+    • GitHub-Repository erstellen
+    • Kommunikationskanäle einrichten
+
+WP2 – Aufgabenverteilung und Organisation
+
+Tasks:
+    • Aufgaben innerhalb des Teams verteilen
+    • Verantwortlichkeiten für einzelne Funktionen festlegen
+    • Zuständigkeiten für Schnittstellen definieren
+    • Zusammenarbeit und Abstimmung organisieren
+
+WP3 – Entwicklung des Personenregisters
+
+Tasks:
+    • Datenmodell für Bürger entwickeln
+    • Benötigte Attribute festlegen (Bürger-ID, Name, Arbeitsplatz, Bildungsgrad, Haustiere, Familie, Fahrzeuge, Wohnsitz, Straftaten, Konto-ID)
+    • Bürgerklasse implementieren
+    • GET-Schnittstelle zum Abrufen von Bürgerdaten implementieren
+    • PUT-Schnittstelle zur Änderung von Bürgerdaten implementieren
+    • DELETE-Schnittstelle zum Löschen von Bürgern implementieren
+    • Funktion zur Auflistung aller Bürger implementieren
+    • Funktion zur Überprüfung, ob ein Bürger existiert, implementieren
+    • Funktionen zur Änderung von Bürgerdaten implementieren
+
+WP4 – Entwicklung der Bürgerfunktionen
+
+    • Krankenhaus kann Bürger erstellen (Geburt)
+    • Krankenhaus kann Bürger beenden (Tod)
+    • Einwanderung und Auswanderung implementieren
+    • Bürger können heiraten und sich scheiden lassen
+    • Bürger können Familien haben
+    • Bürger können einen Arbeitsplatz haben und diesen ändern
+    • Bürger können einen Bildungsgrad besitzen und diesen ändern
+    • Bürger können einen Wohnsitz haben und diesen ändern
+    • Bürger können Fahrzeuge besitzen und diese ändern
+    • Bürger können Haustiere besitzen und diese ändern
+    • Bürger können fahren
+    • Bürger können bestraft werden
+    • Bürger können Straftaten begehen (z. B. stehlen)
+
+WP5 – Entwicklung und Integration der Schnittstellen
+
+Tasks:
+    • Bürgerregister-Schnittstelle entwickeln
+    • GET-, PUT-, DELETE- und Listenschnittstellen bereitstellen
+    • Schnittstelle zum Gewerberegister integrieren
+    • Schnittstelle zum Infrastrukturregister integrieren
+    • Schnittstelle zum Kontoregister bzw. Bankenregister integrieren
+    • Datenaustausch zwischen den Registern implementieren
+    • Gemeinsame Schnittstellentests mit anderen Teams durchführen
